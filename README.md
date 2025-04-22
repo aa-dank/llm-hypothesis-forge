@@ -118,17 +118,16 @@ git clone https://github.com/aa-dank/llm-hypothesis-forge.git
 cd llm-hypothesis-forge
 ```
 
-
-Download dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-
 Create and activate virtual environment:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+```
+
+
+Download dependencies:
+```bash
+pip install -r requirements.txt
 ```
 
 
